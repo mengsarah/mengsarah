@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! ###
+
+I'm a recent computer science graduate. I'm working on projects while searching for a job.
+
+As of August 2020, I have been working on:
+* [SyllabiShare](https://github.com/SyllabiShare/syllabi-share), a syllabus respository site for college students
+* [Job App Tracker](https://github.com/mengsarah/jobapps), a personal tracker for the various steps in job applications
+
+[My website](https://mengsarah.github.io/)
 
 <!--
 **mengsarah/mengsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
