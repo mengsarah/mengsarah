@@ -8,6 +8,8 @@ As of August 2020, I have been working on:
 
 [My website](https://mengsarah.github.io/)
 
+[Want your own profile README.md? Check out this guide!](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+
 <!--
 **mengsarah/mengsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
